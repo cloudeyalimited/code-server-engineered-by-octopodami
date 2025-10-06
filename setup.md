@@ -1,4 +1,4 @@
-# Code-server Engineered by OCTOPODAMI (CEBO) Setup
+# Code-server Engineered by OCTOPODAMI (CSEO) Setup
 
 Our pre-configured stack relies on AWS EC2 which helps to improve performance and scalability of your code-server instance, but additional integration with other AWS services like S3, CloudFront, Route53, and Auto Scaling is possible.
 
@@ -13,7 +13,7 @@ You need to create a unique EC2 Key Pair so you can log into your EC2 instance e
 
 ## Launch Instance
 
-Within the EC2 Dashboard page, you can do the following to launch a Code-server Engineered by OCTOPODAMI (CEBO) instance:
+Within the EC2 Dashboard page, you can do the following to launch a Code-server Engineered by OCTOPODAMI (CSEO) instance:
 
 1. Click the **Launch Instance** button or click this button [![Launch Stack](./images/launch-stack.png?raw=true)](https://aws.amazon.com/marketplace/pp/prodview-icx22qpp2vkv2)
 2. Next, click **AWS Marketplace** tab on the left side of the **Choose an Amazon Machine Image (AMI)** page
@@ -62,7 +62,7 @@ To SSH into your EC2 instance:
 
 ## Support
 
-[Email](mailto:tech@cloudeya.org) support is available to Amazon Web Services Marketplace Customers. We do not offer refunds, but you may terminate your Code-server Engineered by OCTOPODAMI (CEBO) Stack at any time.
+[Email](mailto:tech@cloudeya.org) support is available to Amazon Web Services Marketplace Customers. We do not offer refunds, but you may terminate your Code-server Engineered by OCTOPODAMI (CSEO) Stack at any time.
 
 ## License
 

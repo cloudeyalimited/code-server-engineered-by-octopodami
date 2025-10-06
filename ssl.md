@@ -1,4 +1,4 @@
-# Code-server Engineered by OCTOPODAMI (CEBO) SSL
+# Code-server Engineered by OCTOPODAMI (CSEO) SSL
 
 You can secure your code-server installation with an SSL certificate by following the instructions below.
 
@@ -95,7 +95,7 @@ If you prefer to configure SSL directly through code-server without nginx:
 
 ## Support
 
-[Email](mailto:tech@cloudeya.org) support is available to Amazon Web Services Marketplace Customers. We do not offer refunds, but you may terminate your Code-server Engineered by OCTOPODAMI (CEBO) Stack at any time.
+[Email](mailto:tech@cloudeya.org) support is available to Amazon Web Services Marketplace Customers. We do not offer refunds, but you may terminate your Code-server Engineered by OCTOPODAMI (CSEO) Stack at any time.
 
 ## License
 

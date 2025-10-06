@@ -1,6 +1,6 @@
-# Code-server Engineered by OCTOPODAMI® (CEBO)
+# Code-server Engineered by OCTOPODAMI® (CSEO)
 
-With [code-server](https://github.com/coder/code-server) Engineered by OCTOPODAMI® (CEBO), you can launch a code-server stack pre-configured for auto-scaling, maintainability, performance, and security.
+With [code-server](https://github.com/coder/code-server) Engineered by OCTOPODAMI® (CSEO), you can launch a code-server stack pre-configured for auto-scaling, maintainability, performance, and security.
 
 Our expert engineers developed this 1-Click Amazon Machine Images (AMI) with rapid deployment in mind; we guarantee you will be up and running in 60 seconds on Amazon Web Services.
 
@@ -8,7 +8,7 @@ Instead of spending countless hours learning the intricacies of configuring a sc
 
 ## Features
 
-Code-server Engineered by OCTOPODAMI® (CEBO) uses the following technologies:
+Code-server Engineered by OCTOPODAMI® (CSEO) uses the following technologies:
 
 1. **Nginx**: a fast and light-weight web server and reverse proxy
 2. **Amazon Linux 2023**: CentOS-based operating system, optimized for AWS
@@ -33,7 +33,7 @@ Code-server Engineered by OCTOPODAMI® (CEBO) uses the following technologies:
 
 ## Support
 
-[Email](mailto:tech@cloudeya.org) support is available to Amazon Web Services Marketplace Customers. We do not offer refunds, but you may terminate your Code-server Engineered by OCTOPODAMI (CEBO) Stack at any time.
+[Email](mailto:tech@cloudeya.org) support is available to Amazon Web Services Marketplace Customers. We do not offer refunds, but you may terminate your Code-server Engineered by OCTOPODAMI (CSEO) Stack at any time.
 
 ## Troubleshooting
 
